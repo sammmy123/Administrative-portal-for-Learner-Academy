@@ -4,7 +4,7 @@ This project aims to design and develop a backend administrative portal for the 
 The goal of this project is to apply servlet, jsp and JDBC concepts.
 
 ## Product Backlog:
-1.	Create database and tables.
+1.	Create database and tables
 2.	Connect the database to the project.
 3.	Create models classes.
 4.	Create  a database utility class to retrieve data.
